@@ -66,4 +66,4 @@ Study the practical trade-offs between iterative optimization and fast neural in
 
 **Prem Sharma**
 
-GitHub: https://github.com/premsharma8168
+GitHub: https://github.com/PremNSharma
